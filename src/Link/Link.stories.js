@@ -4,7 +4,7 @@ import { action } from '@storybook/addon-actions';
 
 import { Icon } from './Icon';
 import { Link } from './Link';
-import { StoryLinkWrapper } from './StoryLinkWrapper';
+import { StoryLinkWrapper } from '../StoryLinkWrapper';
 
 const CustomLink = styled(Link)`
   && {
